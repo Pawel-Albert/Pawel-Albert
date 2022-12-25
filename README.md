@@ -5,7 +5,7 @@
 ### About me 
 
 - 🔭 I'm currently working on a two small projects - static site with test data generator and autofill chrome extension.
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Javascript, node js in particular 
 - ⚡ Hobby : sports, games, movies
 
 <!--
