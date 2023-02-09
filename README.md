@@ -4,8 +4,10 @@
 
 ### About me 
 
-- 🔭 I'm currently working on a two small projects - static site with test data generator and autofill chrome extension.
-- 🌱 I’m currently learning Javascript, node js in particular 
+- 💻 I'm currently employed at SB Betting Software
+- 🔭 I'm currently working on a few small projects -  one of them is API for sending raw SQL queries to PostgreSQL database
+- 🌱 I’m currently learning JavaScript/TypeScript, starting journey with basics of Cypress and Playwright
+- 📫 How to reach me: wojciechowski.pawel.git@gmail.com
 - ⚡ Hobby : sports, games, movies
 
 <!--
