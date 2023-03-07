@@ -1,13 +1,13 @@
 # Hi there, I'm Paweł
 
-## I'm a manual software tester, following the goal of learning programming and entering the world of automated testing
+## I'm a software tester, following the goal of learning programming and entering the world of automated testing
 
 ### About me 
 
 - 💻 I'm currently employed at SB Betting Software
 - 🔭 I'm currently working on a few small projects -  one of them is API for sending raw SQL queries to PostgreSQL database
 - 🌱 I’m currently learning JavaScript/TypeScript, starting journey with basics of Cypress and Playwright
-- 📫 How to reach me: wojciechowski.pawel.git@gmail.com
+- 📫 How to reach me: wojciechowski.pawel.git@gmail.com or https://www.linkedin.com/in/wojciechowski-pawel-albert/
 - ⚡ Hobby : sports, games, movies
 
 <!--
