@@ -4,7 +4,6 @@
 
 ### About me 
 
-- 💻 I'm currently employed at SB Betting Software
 - 🔭 I'm currently working on a few small projects -  one of them is API for sending raw SQL queries to PostgreSQL database
 - 🌱 I’m currently learning JavaScript/TypeScript, starting my journey with the basics of Cypress and Playwright
 - ⚛️ I've recently started learning React to enhance my tooling capabilities and gain a better understanding of modern apps
